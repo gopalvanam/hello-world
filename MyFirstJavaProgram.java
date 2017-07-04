@@ -1,6 +1,6 @@
 public class MyFirstJavaProgram {
 
-   /* This is my first java program.change to be commited to build
+   /* This is my first java program.Github push build jenkins job
     * This will print 'Hello World' as the output
     */
 
