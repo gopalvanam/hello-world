@@ -1,6 +1,6 @@
 public class MyFirstJavaProgram {
 
-   /* This is my first java program. trigger from git 2
+   /* This is my first java program. trigger from git 3
     * This will print 'Hello World' as the output
     */
 
