@@ -1,6 +1,6 @@
 public class MyFirstJavaProgram {
 
-   /* This is my first java program. trigger from git hook push local repo
+   /* This is my first java program.change to be commited to build
     * This will print 'Hello World' as the output
     */
 
